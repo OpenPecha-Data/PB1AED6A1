@@ -1,0 +1,104 @@
+id: f1082e91f232449ebcba1e06bb435123
+annotation_type: Segment
+revision: '00001'
+annotations:
+  c8c256675e114877badaaa837b401167:
+    span:
+      start: 0
+      end: 96
+    metadata: {}
+  adf07e43cb8b46798bfbda616bb87699:
+    span:
+      start: 99
+      end: 196
+    metadata: {}
+  4ae2ecb06a264c1eac3fffe2959dbea1:
+    span:
+      start: 199
+      end: 303
+    metadata: {}
+  4a067087605c46f4ad3f1aa2e1f4c7c7:
+    span:
+      start: 306
+      end: 402
+    metadata: {}
+  a2decd72f80d404ab834ab0d06e4ec6e:
+    span:
+      start: 405
+      end: 497
+    metadata: {}
+  97bc324e6e994e5f8030dfa14ef4eb47:
+    span:
+      start: 500
+      end: 596
+    metadata: {}
+  ba8b3f3ebd644054ae6c6f4f0e17cffd:
+    span:
+      start: 599
+      end: 707
+    metadata: {}
+  477e8f987b064fde8879f253b5779df2:
+    span:
+      start: 710
+      end: 804
+    metadata: {}
+  2c6ed4a3823940c4975ffb82a4300d81:
+    span:
+      start: 807
+      end: 898
+    metadata: {}
+  ca194845967d4f2e8232fb4503a61dc4:
+    span:
+      start: 901
+      end: 997
+    metadata: {}
+  e4c00bcb558c4cbba396d8631944ff18:
+    span:
+      start: 1000
+      end: 1093
+    metadata: {}
+  cbd67d16a118484187a3f3021d16dd67:
+    span:
+      start: 1096
+      end: 1201
+    metadata: {}
+  6596c5f4098e45afa5686b21b0c78037:
+    span:
+      start: 1204
+      end: 1297
+    metadata: {}
+  fc4acdbc3a2440559b3421c1af26ff78:
+    span:
+      start: 1300
+      end: 1399
+    metadata: {}
+  32dead2044454a6896e6c6b2616106aa:
+    span:
+      start: 1402
+      end: 1500
+    metadata: {}
+  82363d58106c4519b54d9e9974f70228:
+    span:
+      start: 1503
+      end: 1606
+    metadata: {}
+  4938b831394442769f9e0e3ff00cd445:
+    span:
+      start: 1609
+      end: 1710
+    metadata: {}
+  eb23e39a89534f86a6a7d7372dc82881:
+    span:
+      start: 1713
+      end: 1811
+    metadata: {}
+  ac8360bcf92b4cc9b68eca01b5fb21ad:
+    span:
+      start: 1814
+      end: 1908
+    metadata: {}
+  912b5daf6caf4da3a27707c0d007def2:
+    span:
+      start: 1911
+      end: 2012
+    metadata: {}

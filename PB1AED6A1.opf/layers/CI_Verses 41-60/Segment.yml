@@ -1,0 +1,104 @@
+id: fc349c63799e43a984cd91d565fb7d17
+annotation_type: Segment
+revision: '00001'
+annotations:
+  c1009e1f6b3a46d6b145984f008114da:
+    span:
+      start: 0
+      end: 102
+    metadata: {}
+  1d3ea48b1ca74541b7c0ff3d81e46bf9:
+    span:
+      start: 105
+      end: 196
+    metadata: {}
+  fdf0c5b0daf54637ae8d7ccfc57b8889:
+    span:
+      start: 199
+      end: 293
+    metadata: {}
+  9a929e6d080642dcb45b9ed7e76cdc5b:
+    span:
+      start: 296
+      end: 391
+    metadata: {}
+  051d8111085945a3a89c67d9b3c726c8:
+    span:
+      start: 394
+      end: 495
+    metadata: {}
+  3ed15223f9554b9185b584f2982a9999:
+    span:
+      start: 498
+      end: 587
+    metadata: {}
+  92ea19ae88794d6aa019098643c5cc1d:
+    span:
+      start: 590
+      end: 691
+    metadata: {}
+  cd56eb4fe308473bb6708eb86816eda7:
+    span:
+      start: 694
+      end: 792
+    metadata: {}
+  fc9c7bd708a0432c998f6c96526adbd5:
+    span:
+      start: 795
+      end: 899
+    metadata: {}
+  6b365d6ce8574535b178f4d18c3a99f3:
+    span:
+      start: 902
+      end: 1000
+    metadata: {}
+  1654f80a36bd456f8cd8c5546a95777e:
+    span:
+      start: 1003
+      end: 1104
+    metadata: {}
+  84c1525d944f4404a7a11060c9eeb3e6:
+    span:
+      start: 1107
+      end: 1206
+    metadata: {}
+  7ccd3857c81b4998ac129a51d9b695f8:
+    span:
+      start: 1209
+      end: 1304
+    metadata: {}
+  145cd356555e49ab95c817a326c1f813:
+    span:
+      start: 1307
+      end: 1407
+    metadata: {}
+  09e8ec010e864690b7c71fd8240ca3a8:
+    span:
+      start: 1410
+      end: 1509
+    metadata: {}
+  ca40de4fe768438596b1b51197a0de34:
+    span:
+      start: 1512
+      end: 1604
+    metadata: {}
+  50b11949c0064d1da8091c9929084666:
+    span:
+      start: 1607
+      end: 1700
+    metadata: {}
+  ede8a94e6abd4a5eb6e346b0c6104602:
+    span:
+      start: 1703
+      end: 1801
+    metadata: {}
+  1d1ae12debeb4eb287363c5352902c11:
+    span:
+      start: 1804
+      end: 1902
+    metadata: {}
+  44621e0890784ca59a53cd900540c106:
+    span:
+      start: 1905
+      end: 2009
+    metadata: {}

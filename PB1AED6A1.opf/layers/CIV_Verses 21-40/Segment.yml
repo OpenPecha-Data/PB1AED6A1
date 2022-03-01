@@ -1,0 +1,104 @@
+id: b94b327be43a4b7b827f584fe64f70d4
+annotation_type: Segment
+revision: '00001'
+annotations:
+  0db3b40158a646ec93ebb4c7f11960fe:
+    span:
+      start: 0
+      end: 93
+    metadata: {}
+  2c628031a19e43acb4a47058d6c145d8:
+    span:
+      start: 96
+      end: 195
+    metadata: {}
+  58dea56b02c3451595990483e205365a:
+    span:
+      start: 198
+      end: 299
+    metadata: {}
+  5e18d45acc3649f29a332a991933f95a:
+    span:
+      start: 302
+      end: 410
+    metadata: {}
+  b67d6d06be7544178e40c944f1bd8ea4:
+    span:
+      start: 413
+      end: 517
+    metadata: {}
+  98562a35c672469d8de10ff61f7d9953:
+    span:
+      start: 520
+      end: 627
+    metadata: {}
+  94b2168044474cabaa916391f22262b7:
+    span:
+      start: 630
+      end: 739
+    metadata: {}
+  c4a2bcd417654defb56c064e02ac10d5:
+    span:
+      start: 742
+      end: 841
+    metadata: {}
+  f341b3b223334bec828156616262f533:
+    span:
+      start: 844
+      end: 940
+    metadata: {}
+  e4f054e5c07c4496acca28cf06b41bc5:
+    span:
+      start: 943
+      end: 1045
+    metadata: {}
+  fab82c6218d2467cb336448b2031842e:
+    span:
+      start: 1048
+      end: 1142
+    metadata: {}
+  26b1efddf24e43e9ae1d128f7749e4ec:
+    span:
+      start: 1145
+      end: 1235
+    metadata: {}
+  21e122877d0c479d9c3f8c656dab4d7c:
+    span:
+      start: 1238
+      end: 1339
+    metadata: {}
+  a801d97312dd4f2595601df491e23055:
+    span:
+      start: 1342
+      end: 1434
+    metadata: {}
+  822f97ce21b14fa89e2f7ec933d311e2:
+    span:
+      start: 1437
+      end: 1533
+    metadata: {}
+  e367afa3e8be4cb9b84681c971054bd5:
+    span:
+      start: 1536
+      end: 1632
+    metadata: {}
+  b2075b94834b45ecbffb9169e35a0bec:
+    span:
+      start: 1635
+      end: 1728
+    metadata: {}
+  65a386a17a58461485578f9114cfcb75:
+    span:
+      start: 1731
+      end: 1833
+    metadata: {}
+  eabdfdcb16ce49348987738011fa7920:
+    span:
+      start: 1836
+      end: 1929
+    metadata: {}
+  3b3be8c7f692474daceef872261da920:
+    span:
+      start: 1932
+      end: 2030
+    metadata: {}
